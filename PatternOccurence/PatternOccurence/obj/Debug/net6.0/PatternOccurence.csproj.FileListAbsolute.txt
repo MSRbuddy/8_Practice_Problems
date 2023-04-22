@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\bin\Debug\net6.0\PatternOccurence.exe
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\bin\Debug\net6.0\PatternOccurence.deps.json
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\bin\Debug\net6.0\PatternOccurence.runtimeconfig.json
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\bin\Debug\net6.0\PatternOccurence.dll
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\bin\Debug\net6.0\PatternOccurence.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\obj\Debug\net6.0\PatternOccurence.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\obj\Debug\net6.0\PatternOccurence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\obj\Debug\net6.0\PatternOccurence.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\obj\Debug\net6.0\PatternOccurence.AssemblyInfo.cs
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\obj\Debug\net6.0\PatternOccurence.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\obj\Debug\net6.0\PatternOccurence.dll
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\obj\Debug\net6.0\refint\PatternOccurence.dll
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\obj\Debug\net6.0\PatternOccurence.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\obj\Debug\net6.0\PatternOccurence.genruntimeconfig.cache
+C:\Users\USER\source\BL\8-PracticeProblems\PatternOccurence\PatternOccurence\obj\Debug\net6.0\ref\PatternOccurence.dll
