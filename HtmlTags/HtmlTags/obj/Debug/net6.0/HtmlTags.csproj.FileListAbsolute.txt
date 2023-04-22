@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\bin\Debug\net6.0\HtmlTags.exe
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\bin\Debug\net6.0\HtmlTags.deps.json
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\bin\Debug\net6.0\HtmlTags.runtimeconfig.json
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\bin\Debug\net6.0\HtmlTags.dll
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\bin\Debug\net6.0\HtmlTags.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\obj\Debug\net6.0\HtmlTags.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\obj\Debug\net6.0\HtmlTags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\obj\Debug\net6.0\HtmlTags.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\obj\Debug\net6.0\HtmlTags.AssemblyInfo.cs
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\obj\Debug\net6.0\HtmlTags.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\obj\Debug\net6.0\HtmlTags.dll
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\obj\Debug\net6.0\refint\HtmlTags.dll
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\obj\Debug\net6.0\HtmlTags.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\obj\Debug\net6.0\HtmlTags.genruntimeconfig.cache
+C:\Users\USER\source\BL\8-PracticeProblems\HtmlTags\HtmlTags\obj\Debug\net6.0\ref\HtmlTags.dll
