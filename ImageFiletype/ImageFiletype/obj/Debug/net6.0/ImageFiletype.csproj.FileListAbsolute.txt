@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\bin\Debug\net6.0\ImageFiletype.exe
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\bin\Debug\net6.0\ImageFiletype.deps.json
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\bin\Debug\net6.0\ImageFiletype.runtimeconfig.json
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\bin\Debug\net6.0\ImageFiletype.dll
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\bin\Debug\net6.0\ImageFiletype.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\obj\Debug\net6.0\ImageFiletype.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\obj\Debug\net6.0\ImageFiletype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\obj\Debug\net6.0\ImageFiletype.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\obj\Debug\net6.0\ImageFiletype.AssemblyInfo.cs
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\obj\Debug\net6.0\ImageFiletype.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\obj\Debug\net6.0\ImageFiletype.dll
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\obj\Debug\net6.0\refint\ImageFiletype.dll
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\obj\Debug\net6.0\ImageFiletype.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\obj\Debug\net6.0\ImageFiletype.genruntimeconfig.cache
+C:\Users\USER\source\BL\8-PracticeProblems\ImageFiletype\ImageFiletype\obj\Debug\net6.0\ref\ImageFiletype.dll
