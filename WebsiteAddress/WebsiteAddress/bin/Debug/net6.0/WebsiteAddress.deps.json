@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebsiteAddress/1.0.0": {
+        "runtime": {
+          "WebsiteAddress.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebsiteAddress/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

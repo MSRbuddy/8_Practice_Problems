@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\bin\Debug\net6.0\WebsiteAddress.exe
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\bin\Debug\net6.0\WebsiteAddress.deps.json
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\bin\Debug\net6.0\WebsiteAddress.runtimeconfig.json
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\bin\Debug\net6.0\WebsiteAddress.dll
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\bin\Debug\net6.0\WebsiteAddress.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\obj\Debug\net6.0\WebsiteAddress.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\obj\Debug\net6.0\WebsiteAddress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\obj\Debug\net6.0\WebsiteAddress.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\obj\Debug\net6.0\WebsiteAddress.AssemblyInfo.cs
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\obj\Debug\net6.0\WebsiteAddress.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\obj\Debug\net6.0\WebsiteAddress.dll
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\obj\Debug\net6.0\refint\WebsiteAddress.dll
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\obj\Debug\net6.0\WebsiteAddress.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\obj\Debug\net6.0\WebsiteAddress.genruntimeconfig.cache
+C:\Users\USER\source\BL\8-PracticeProblems\WebsiteAddress\WebsiteAddress\obj\Debug\net6.0\ref\WebsiteAddress.dll
