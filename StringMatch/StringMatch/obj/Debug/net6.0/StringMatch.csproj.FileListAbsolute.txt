@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\bin\Debug\net6.0\StringMatch.exe
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\bin\Debug\net6.0\StringMatch.deps.json
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\bin\Debug\net6.0\StringMatch.runtimeconfig.json
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\bin\Debug\net6.0\StringMatch.dll
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\bin\Debug\net6.0\StringMatch.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\obj\Debug\net6.0\StringMatch.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\obj\Debug\net6.0\StringMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\obj\Debug\net6.0\StringMatch.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\obj\Debug\net6.0\StringMatch.AssemblyInfo.cs
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\obj\Debug\net6.0\StringMatch.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\obj\Debug\net6.0\StringMatch.dll
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\obj\Debug\net6.0\refint\StringMatch.dll
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\obj\Debug\net6.0\StringMatch.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\obj\Debug\net6.0\StringMatch.genruntimeconfig.cache
+C:\Users\USER\source\BL\8-PracticeProblems\StringMatch\StringMatch\obj\Debug\net6.0\ref\StringMatch.dll
