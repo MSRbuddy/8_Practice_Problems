@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\bin\Debug\net6.0\LowerCase.exe
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\bin\Debug\net6.0\LowerCase.deps.json
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\bin\Debug\net6.0\LowerCase.runtimeconfig.json
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\bin\Debug\net6.0\LowerCase.dll
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\bin\Debug\net6.0\LowerCase.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\obj\Debug\net6.0\LowerCase.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\obj\Debug\net6.0\LowerCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\obj\Debug\net6.0\LowerCase.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\obj\Debug\net6.0\LowerCase.AssemblyInfo.cs
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\obj\Debug\net6.0\LowerCase.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\obj\Debug\net6.0\LowerCase.dll
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\obj\Debug\net6.0\refint\LowerCase.dll
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\obj\Debug\net6.0\LowerCase.pdb
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\obj\Debug\net6.0\LowerCase.genruntimeconfig.cache
+C:\Users\USER\source\BL\8-PracticeProblems\LowerCase\LowerCase\obj\Debug\net6.0\ref\LowerCase.dll
